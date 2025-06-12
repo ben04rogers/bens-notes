@@ -1,1 +1,0 @@
-https://devblogs.microsoft.com/dotnet/introducing-mstest-sdk/

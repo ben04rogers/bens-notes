@@ -1,1 +1,0 @@
-[https://api.github.com/users/leandromonaco/starred?per_page=100&page=11](https://api.github.com/users/leandromonaco/starred?per_page=100&page=11)

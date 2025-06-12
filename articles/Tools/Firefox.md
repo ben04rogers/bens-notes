@@ -1,1 +1,0 @@
-https://relay.firefox.com
